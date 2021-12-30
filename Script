@@ -4,6 +4,4 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
   loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/Quartyzhub/main/KingLegacy")()
 elseif game.PlaceId == 914010731 then
   loadstring(game:HttpGet"https://raw.githubusercontent.com/naypramx/PaidScript/Script/Roghoul")()
-elseif game.PlaceId == 8160862936 then
-  loadstring(game:HttpGet"https://raw.githubusercontent.com/naypramx/PaidScript/Script/SuperEater")()
 end
