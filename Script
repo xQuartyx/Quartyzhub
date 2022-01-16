@@ -5,5 +5,5 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
 elseif game.PlaceId == 914010731 then
   loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/Quartyzhub/main/Ro-Ghoul")()
 elseif game.PlaceId == 6299805723 then
-  loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/Quartyzhub/main/AnimeFighterSimulator")
+  loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/Quartyzhub/main/AFS")
 end
