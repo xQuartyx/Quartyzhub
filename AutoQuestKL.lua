@@ -1,3 +1,8 @@
+--[[
+    Credit : Shouko#0302
+    FB : Mix Yasinthon
+]]
+
 -- Function Check CFrameQuest NPCName Mob
 local function CheckLevel(lvl) -- function can put Level
     local Level = lvl or game:GetService("Players").LocalPlayer.PlayerStats.lvl.Value
