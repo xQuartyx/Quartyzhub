@@ -15,7 +15,8 @@ local function CheckLevel(lvl) -- function can put Level
 		if i:split(" ")[1] == "Kill" then
 			if Level >= 2200 and game.PlaceId == 4520749081 then
 				Lv = 2200
-			elseif Level >= v.Level then
+				Mob = "Seasoned Fishman [Lv. 2200]"
+		    elseif Level >= v.Level then
 				if not Lv then
 					Lv = v.Level
 				end
